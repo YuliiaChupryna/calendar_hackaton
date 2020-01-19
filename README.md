@@ -1,1 +1,1 @@
-[CALENDAR](http://liliyatar.github.io/calendar_hackaton)
+[CALENDAR](http://yuliiachupryna.github.io/calendar_hackaton)
